@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src='public/Logo.png' alt="Move.it"/>
+  <img src="Logo.png" alt="Move.it"/>
 
   &#xa0;
 
