@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">Move.it</h1>
+<!-- <h1 align="center">Move.it</h1> -->
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/cleber-santos/move-it?color=4953B8">
