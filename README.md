@@ -64,7 +64,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 $ git clone https://github.com/cleber-santos/move-it
 
 # Entre na pasta
-$ cd moveit
+$ cd move-it
 
 # Instale as dependências
 $ yarn
