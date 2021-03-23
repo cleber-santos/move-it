@@ -33,7 +33,7 @@
 
 ## :dart: Sobre ##
 
-Projeto feito durante a NLW#4 (Next Level Week). Uma semana desenvolvida pela [Rocketseat](https://rocketseat.com.br/) totalmente gratuita, onde é feito um projeto real e funcional. 
+Projeto feito durante a NLW#4 (Next Level Week).<br>Uma semana desenvolvida pela [Rocketseat](https://rocketseat.com.br/) totalmente gratuita, onde é feito um projeto real e funcional. 
 
 ## :sparkles: Funcionalidades ##
 
