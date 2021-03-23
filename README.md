@@ -77,7 +77,7 @@ $ yarn start
 
 ## :memo: Licença ##
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](https://github.com/cleber-santos/move-it/blob/main/LICENSE) para mais detalhes.
 
 
 Feito por <a href="https://github.com/cleber-santos" target="_blank">Cleber Santos</a>
