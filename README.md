@@ -47,6 +47,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Yarn](https://yarnpkg.com/)
 - [React](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## :film_strip: Demonstração ##
