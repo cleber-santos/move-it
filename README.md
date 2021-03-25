@@ -51,7 +51,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## :film_strip: Demonstração ##
 
-![gif]()
+![gif](https://github.com/cleber-santos/move-it/blob/main/public/move.it.gif)  
+
+Observação: na gif o timer esta setado em 12 segundos apenas para gravar. O time da aplicação é de 25 minutos.
 
 ## :white_check_mark: Pré requisitos ##
 
