@@ -21,7 +21,7 @@ let countdownTimeout: NodeJS.Timeout; // Cancela o timeout - JS puro.
 export function CountdownProvider({ children }: CountdownProviderProps) {
     const { startNewChallenge } = useContext(ChallengesContext)
 
-    const [time, setTime] = useState(25 * 60) // transformar min em segundos -> 25 min * 60 segundos = 1500 seg. 
+    const [time, setTime] = useState(0.05 * 60) // transformar min em segundos -> 25 min * 60 segundos = 1500 seg. 
     const [isActive, setIsActive] = useState(false) // Esse estado vai armazenar se o nosso countdown está ativo ou não.
     const [hasFinished, setHasFinished] = useState(false)
 
@@ -36,7 +36,7 @@ export function CountdownProvider({ children }: CountdownProviderProps) {
         clearTimeout(countdownTimeout)
         setIsActive(false)
         setHasFinished(false)
-        setTime(25 * 60)
+        setTime(0.05 * 60)
     }
 
     // useEffect é um hook do react, ou seja é uma função que quando disparada tem um efeito colateral na aplicação
