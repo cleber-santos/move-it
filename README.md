@@ -54,6 +54,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ![gif](https://github.com/cleber-santos/move-it/blob/main/public/move.it.gif)  
 
 Observação: na gif o timer esta setado em 12 segundos apenas para gravar. O time da aplicação é de 25 minutos.
+<div align="center">
+  <img alt="Tela de inicio" src="https://user-images.githubusercontent.com/62780876/112535063-97664f80-8d8a-11eb-8dd5-cb9a79671d23.jpg" width="350px">
+  
+   &#xa0;
+   
+</div>
 
 ## :white_check_mark: Pré requisitos ##
 
